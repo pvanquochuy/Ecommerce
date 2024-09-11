@@ -11,6 +11,13 @@
 	<groupId>com.example</groupId>
 	<artifactId>Ecommerce</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<modules>
+		<module>Library</module>
+		<module>Admin</module>
+
+	</modules>
+
 	<name>Ecommerce</name>
 	<description>Ecommerce project for Spring Boot</description>
 	<url/>
